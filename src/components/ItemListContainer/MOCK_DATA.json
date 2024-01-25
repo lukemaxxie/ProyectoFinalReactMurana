@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Musicalización",
+        "descripcion": "Agrega ritmo y armonía a tu evento con nuestra excepcional musicalización. Ofrecemos una amplia selección de géneros musicales para adaptarnos a tus gustos y preferencias.",
+        "precio": "3000",
+        "category": "interior",
+        "img": "https://images.unsplash.com/photo-1510511233900-1982d92bd835?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Fotografía",
+        "descripcion": "Captura los momentos especiales de tu evento con nuestro servicio profesional de fotografía. Nuestros fotógrafos expertos inmortalizarán cada detalle para que puedas revivir esos momentos una y otra vez.",
+        "precio": "5000",
+        "category": "interior",
+        "img": "https://images.unsplash.com/photo-1607946036948-175af02933ab?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "nombre": "Servicio de Lunch",
+        "descripcion": "Disfruta de un delicioso lunch preparado con ingredientes frescos y de la más alta calidad. Nuestro servicio de lunch es perfecto para complementar cualquier tipo de evento, desde reuniones corporativas hasta celebraciones familiares.",
+        "precio": "6000",
+        "category": "interior",
+        "img": "https://images.unsplash.com/photo-1555244162-803834f70033?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "nombre": "Decoración",
+        "descripcion": "¡Haz que tu evento brille con nuestra increíble decoración! Transformamos espacios con decoración única y personalizada que refleja tu estilo y la temática del evento. Desde elegante y sofisticado hasta divertido y festivo, tenemos opciones para todos los gustos.",
+        "precio": "8000",
+        "category": "exterior",
+        "img": "https://images.unsplash.com/photo-1604668915840-580c30026e5f?q=80&w=2848&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 12
+    },
+    {
+        "id": 5,
+        "nombre": "Servicio De Mozo",
+        "descripcion": "¡Añade un toque de elegancia a tu evento con nuestro servicio de mozo! Nuestros mozos altamente capacitados se encargarán de que tus invitados se sientan atendidos y disfruten de una experiencia sin preocupaciones. Relájate y deja que nuestro equipo se encargue de todo.",
+        "precio": "3500",
+        "category": "exterior",
+        "img": "https://images.unsplash.com/photo-1633504627853-24d83826316d?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 18
+    }
+]

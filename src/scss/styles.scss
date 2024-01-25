@@ -1,0 +1,15 @@
+// UI Variables
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+// Rest of your import statements...
+@import './components/base/_variables';
+@import "./components/_page404";
+@import './components/_global';
+@import './components/mixin';
+@import './components/_navBar';
+@import "./components/_itemDetail";
+@import "./components/_catalogue.scss";
+@import './components/_footer';
+@import "./components/customLoader";
+@import "./components/_itemCard";
+@import "./components/_categoryList";
