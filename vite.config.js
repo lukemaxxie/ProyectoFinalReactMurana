@@ -7,9 +7,15 @@ export default {
     alias: {
       'react': 'react',
       'react-dom': 'react-dom',
-      'react-router-dom': 'react-router-dom',  // Add this line
+      'react-router-dom': 'react-router-dom',
       '@fortawesome/react-fontawesome': '@fortawesome/react-fontawesome',
     },
-    extensions: ['.js', '.jsx', '.json'], // Add '.jsx' if not present
+    extensions: ['.js', '.jsx', '.json'],
+  },
+  build: {
+    outDir: 'build',
+    rollupOptions: {
+      external: ['pachamama-eventos-final/dist/assets/index-wgPPwx8R.js'], // Add the correct path
+    },
   },
 };
