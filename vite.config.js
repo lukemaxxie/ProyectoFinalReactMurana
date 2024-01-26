@@ -14,8 +14,9 @@ export default {
   },
   build: {
     outDir: 'build',
-    rollupOptions: {
-      external: ['pachamama-eventos-final/dist/assets/index-wgPPwx8R.js'], // Add the correct path
-    },
+    // Remove the following block unless you have specific external dependencies to exclude
+    // rollupOptions: {
+    //   external: ['pachamama-eventos-final/dist/assets/index-wgPPwx8R.js'], // Add the correct path
+    // },
   },
 };
