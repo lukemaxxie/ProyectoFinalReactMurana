@@ -9,6 +9,9 @@ export default {
       'react-dom': 'react-dom',
       'react-router-dom': 'react-router-dom',
       '@fortawesome/react-fontawesome': '@fortawesome/react-fontawesome',
+              base: '/Pachama Eventos - Final/', // Adjust the base path
+              assetsDir: 'assets', // Specify the assets directory
+              assetsInlineLimit: 0,
     },
     extensions: ['.js', '.jsx', '.json'],
   },
@@ -19,4 +22,5 @@ export default {
     //   external: ['pachamama-eventos-final/dist/assets/index-wgPPwx8R.js'], // Add the correct path
     // },
   },
+  
 };
